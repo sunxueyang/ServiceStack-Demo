@@ -1,0 +1,9 @@
+D:\ServerStack\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\ServerStack\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\ServerStack\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\ServerStack\ConsoleApplication1\bin\Debug\ServiceStack.Client.dll
+D:\ServerStack\ConsoleApplication1\bin\Debug\ServiceStack.Interfaces.dll
+D:\ServerStack\ConsoleApplication1\bin\Debug\ServiceStack.Text.dll
+D:\ServerStack\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\ServerStack\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\ServerStack\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache

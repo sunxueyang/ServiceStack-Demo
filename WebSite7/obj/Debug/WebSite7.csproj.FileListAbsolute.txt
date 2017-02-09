@@ -1,0 +1,48 @@
+c:\users\sunxueyang\documents\visual studio 2015\Projects\ServerStack\WebSite7\bin\roslyn\csc.exe
+c:\users\sunxueyang\documents\visual studio 2015\Projects\ServerStack\WebSite7\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\sunxueyang\documents\visual studio 2015\Projects\ServerStack\WebSite7\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\sunxueyang\documents\visual studio 2015\Projects\ServerStack\WebSite7\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\sunxueyang\documents\visual studio 2015\Projects\ServerStack\WebSite7\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\sunxueyang\documents\visual studio 2015\Projects\ServerStack\WebSite7\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\sunxueyang\documents\visual studio 2015\Projects\ServerStack\WebSite7\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\sunxueyang\documents\visual studio 2015\Projects\ServerStack\WebSite7\bin\roslyn\System.Collections.Immutable.dll
+c:\users\sunxueyang\documents\visual studio 2015\Projects\ServerStack\WebSite7\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\sunxueyang\documents\visual studio 2015\Projects\ServerStack\WebSite7\bin\roslyn\vbc.exe
+c:\users\sunxueyang\documents\visual studio 2015\Projects\ServerStack\WebSite7\bin\roslyn\VBCSCompiler.exe
+c:\users\sunxueyang\documents\visual studio 2015\Projects\ServerStack\WebSite7\bin\roslyn\VBCSCompiler.exe.config
+c:\users\sunxueyang\documents\visual studio 2015\Projects\ServerStack\WebSite7\bin\WebSite7.dll.config
+c:\users\sunxueyang\documents\visual studio 2015\Projects\ServerStack\WebSite7\bin\WebSite7.dll
+c:\users\sunxueyang\documents\visual studio 2015\Projects\ServerStack\WebSite7\bin\WebSite7.pdb
+c:\users\sunxueyang\documents\visual studio 2015\Projects\ServerStack\WebSite7\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\sunxueyang\documents\visual studio 2015\Projects\ServerStack\WebSite7\bin\ServiceStack.Client.dll
+c:\users\sunxueyang\documents\visual studio 2015\Projects\ServerStack\WebSite7\bin\ServiceStack.Common.dll
+c:\users\sunxueyang\documents\visual studio 2015\Projects\ServerStack\WebSite7\bin\ServiceStack.dll
+c:\users\sunxueyang\documents\visual studio 2015\Projects\ServerStack\WebSite7\bin\ServiceStack.Interfaces.dll
+c:\users\sunxueyang\documents\visual studio 2015\Projects\ServerStack\WebSite7\bin\ServiceStack.Text.dll
+c:\users\sunxueyang\documents\visual studio 2015\Projects\ServerStack\WebSite7\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\sunxueyang\documents\visual studio 2015\Projects\ServerStack\WebSite7\obj\Debug\WebSite7.dll
+c:\users\sunxueyang\documents\visual studio 2015\Projects\ServerStack\WebSite7\obj\Debug\WebSite7.pdb
+D:\ServerStack\WebSite7\bin\roslyn\csc.exe
+D:\ServerStack\WebSite7\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ServerStack\WebSite7\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ServerStack\WebSite7\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ServerStack\WebSite7\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ServerStack\WebSite7\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ServerStack\WebSite7\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ServerStack\WebSite7\bin\roslyn\System.Collections.Immutable.dll
+D:\ServerStack\WebSite7\bin\roslyn\System.Reflection.Metadata.dll
+D:\ServerStack\WebSite7\bin\roslyn\vbc.exe
+D:\ServerStack\WebSite7\bin\roslyn\VBCSCompiler.exe
+D:\ServerStack\WebSite7\bin\roslyn\VBCSCompiler.exe.config
+D:\ServerStack\WebSite7\bin\WebSite7.dll.config
+D:\ServerStack\WebSite7\bin\WebSite7.dll
+D:\ServerStack\WebSite7\bin\WebSite7.pdb
+D:\ServerStack\WebSite7\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ServerStack\WebSite7\bin\ServiceStack.Client.dll
+D:\ServerStack\WebSite7\bin\ServiceStack.Common.dll
+D:\ServerStack\WebSite7\bin\ServiceStack.dll
+D:\ServerStack\WebSite7\bin\ServiceStack.Interfaces.dll
+D:\ServerStack\WebSite7\bin\ServiceStack.Text.dll
+D:\ServerStack\WebSite7\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ServerStack\WebSite7\obj\Debug\WebSite7.dll
+D:\ServerStack\WebSite7\obj\Debug\WebSite7.pdb
