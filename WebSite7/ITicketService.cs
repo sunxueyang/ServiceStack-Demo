@@ -27,6 +27,10 @@ namespace Interface
         /// <param name="request"></param>
         /// <returns></returns>
         bool Any(TestRequest test);
+
+
+
+
         /// <summary>
         /// 删除指定票据
         /// </summary>
